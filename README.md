@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyaKrasnorudskiy
 - 👀 I’m interested in website development 
-- 🌱 I’m currently learning in in SPbSUT 
+- 🌱 I’m currently learning in  SPbSUT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fgf625@mail.ru
 
